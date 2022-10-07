@@ -1,0 +1,23 @@
+.triangle-code{
+  display : inline-block;
+  height : 0;
+  width : 0;
+  border-top : 15px solid rgba(2, 129, 227, 0.82);
+  border-right : 9px solid transparent;
+  border-left : 9px solid transparent;
+}
+
+
+@media(min-width: 400px) and (max-width: 639px){
+}
+
+@media(min-width: 640px) and (max-width: 1049px){
+}
+
+@media(min-width: 1050px){
+
+}
+
+@media(max-width: 399px){
+
+}
